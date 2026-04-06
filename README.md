@@ -1,19 +1,19 @@
 # Olá, eu sou Iana Lais 👋
 
-###Sou Técnica de Qualidade e Engenheira de Produção com trajetória de 8 anos no setor industrial (Multinacional de Bens de Consumo). Ao longo desse tempo desenvolvi domínio técnico em Validação de Limpeza, Controle Microbiológico e Gestão de Qualidade Industrial. 
+Sou Técnica de Qualidade e Engenheira de Produção com trajetória de 8 anos no setor industrial (Multinacional de Bens de Consumo). Ao longo desse tempo desenvolvi domínio técnico em Validação de Limpeza, Controle Microbiológico e Gestão de Qualidade Industrial. 
 
 Atualmente estou em transição de carreira para **Análise de Dados**. 
 ---
-###💡 No que estou focando agora: 
+💡 No que estou focando agora: 
 
 1. Automação de Dashboards: Migrando controles manuais de qualidade para monitoramento em tempo real com Power BI.
 2. Python para ETL: Desenvolvendo scripts para tratamento e limpeza de dados industriais (Pandas/NumPy).
 3. Utilizar Python e ferramentas de BI para transformar dados operacionais em decisões estratégicas.
 
-###🔭Projetos em andamentos:
+🔭Projetos em andamentos:
  Automatizando relatórios de controle de qualidade e fluxos de dados com Python e relatórios/ dashboard no Power Bi.
 
-###🌱 Estudos:
+🌱 Estudos:
 Bibliotecas de análise de dados (Pandas, NumPy) e Power Bi.
 ---
 🎯 Objetivo 2026:
